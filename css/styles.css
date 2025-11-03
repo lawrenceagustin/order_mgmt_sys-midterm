@@ -1,0 +1,4 @@
+/* css/styles.css */
+html { scroll-behavior: smooth; }
+body { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+.food-names { font-family: 'Alice', serif; font-size: 20px; color: white; }
